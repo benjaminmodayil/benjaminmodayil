@@ -11,11 +11,9 @@ Current keyboard: [The Ultimate Hacking Keyboard](https://ultimatehackingkeyboar
 - I'm a huge fan of split keyboards. I love having my mac trackpad inbetween both halves.
 - For gaming I tend to use a 60% keyboard. [Ducky MechaMini](https://www.duckychannel.com.tw/en/Ducky-Mecha-Mini)
 
-## Resume
+## Work Experience
 
-### Work Experience
-
-#### (Current) Cadent, Philadelphia, PA -- Front-End Engineer
+### (Current) Cadent, Philadelphia, PA -- Front-End Engineer
 
 MARCH 2019 - PRESENT
 
@@ -27,23 +25,23 @@ MAY 2018 - NOVEMBER 2018 & JANUARY 2019 - FEBRUARY 2019
 
 > Worked on several projects including a FIFA World Cup Hub and a sweepstakes site for Dish using A​ WS Lambda ​and D​ ynamodb.​ Also completed a Fintech sector visualization for Deloitte incorporating ReactJS​,​ Context API​,​ ChartJS​, and T​ailwindCSS​ and created a MacOS/Windows desktop conversion tool with Electron ​to assist the client in converting spreadsheet data to a proper format.
 
-### Viget,F​ allsChurch,VA—​Front-EndDeveloperInterntoApprentice
+### Viget, F​alls Church, VA --​ Front-End Developer Intern to Apprentice
 
 SEPTEMBER 2017 - NOVEMBER 2017
 
 > Helped support several client websites using ​Craft CMS​ and maintained issues on Viget’s website. Presented on the CSS image-set function, Intersection Observer A.P.I., and G​atsbyJS.​ Also collaborated with a cross-disciplinary team to create GroundRules.co (not active).
 
-#### Freelance
+### Freelance
 
 JUNE 2015 - PRESENT
 
 > - JAMstack​ websites using ​Netlify CMS​ for Marvin Knorr Law and Hacktopia
-> - Squarespace Development for ​Jennifer Moore Speech,​ ​Rebecca Thomas,SLP​,and B​rave Wings Therapy
+> - Squarespace Development for ​Jennifer Moore Speech,​ ​Rebecca Thomas SLP​, and B​rave Wings Therapy
 > - Open-source co-maintainer and developer for A​pprenticeships.me
 
-### Education
+## Education
 
-#### Cedarville University​
+### Cedarville University​
 
 August 2013 - May 2017
 
