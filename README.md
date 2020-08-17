@@ -23,7 +23,7 @@ MARCH 2019 - PRESENT
 
 MAY 2018 - NOVEMBER 2018 & JANUARY 2019 - FEBRUARY 2019
 
-> Worked on several projects including a FIFA World Cup Hub and a sweepstakes site for Dish using A​ WS Lambda ​and D​ ynamodb.​ Also completed a Fintech sector visualization for Deloitte incorporating ReactJS​,​ Context API​,​ ChartJS​, and T​ailwindCSS​ and created a MacOS/Windows desktop conversion tool with Electron ​to assist the client in converting spreadsheet data to a proper format.
+> Worked on several projects including a FIFA World Cup Hub and a sweepstakes site for Dish using A​WS Lambda ​and Dynamodb.​ Also completed a Fintech sector visualization for Deloitte incorporating ReactJS​,​ Context API​,​ ChartJS​, and T​ailwindCSS​ and created a MacOS/Windows desktop conversion tool with Electron ​to assist the client in converting spreadsheet data to a proper format.
 
 ### Viget, F​alls Church, VA --​ Front-End Developer Intern to Apprentice
 
