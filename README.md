@@ -13,9 +13,15 @@ Current keyboard: [The Ultimate Hacking Keyboard](https://ultimatehackingkeyboar
 
 ## Work Experience
 
-### (Current) Cadent, Philadelphia, PA -- Front-End Engineer
+### Loyal Health, Atlanta, GA (Remote in NC) -- Front-End Engineer
 
-MARCH 2019 - PRESENT
+MARCH 2021 - PRESENT
+
+> Working on [Empower](https://www.loyalhealth.com/empower)
+
+### Cadent, Philadelphia, PA -- Front-End Engineer
+
+MARCH 2019 - MARCH 2021
 
 > Working on multiple SPAs using R​eact,​​ Hooks,​​ Redux​,​ Sagas,​ and more while developing components using ​Storybook.​ Also organizes and leads Front-End Lunch & Learns.
 
