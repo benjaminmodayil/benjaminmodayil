@@ -4,7 +4,7 @@ I'm a Front-End Engineer from Philadelphia, PA.
 
 ## About me
 
-I'm a engineer, coffee enthusiast, keyboard connoisseur, and a below average [Twitch streamer @24props](https://www.twitch.tv/24props).
+I'm a engineer, coffee enthusiast, and keyboard connoisseur.
 
 Current keyboard: [The Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com)
 
