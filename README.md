@@ -1,55 +1,76 @@
 # 👋 Hi I'm Benjamin Modayil
 
-I'm a Front-End Engineer from Philadelphia, PA.
+I'm a Front-End Engineer in Apex, NC.
 
 ## About me
 
-I'm a engineer, coffee enthusiast, and keyboard connoisseur.
+I'm a engineer, decaf coffee enthusiast, and keyboard connoisseur.
 
 Current keyboard: [The Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com)
 
 - I'm a huge fan of split keyboards. I love having my mac trackpad inbetween both halves.
-- For gaming I tend to use a 60% keyboard. [Ducky MechaMini](https://www.duckychannel.com.tw/en/Ducky-Mecha-Mini)
+- For gaming I use a custom 60% keyboard, but here's my previous and still recommended version: [Ducky MechaMini](https://www.duckychannel.com.tw/en/Ducky-Mecha-Mini)
 
 ## Work Experience
 
+Frontend Engineer with 5+ years of experience delivering products in fintech, healthcare, and sports/cable spaces. Specializing in Reactjs related work for product companies, digital agencies, and freelance clients.
+
 ### Loyal Health, Atlanta, GA (Remote in NC) -- Front-End Engineer
 
-MARCH 2021 - PRESENT
+MARCH 2021 - July 2022
 
-> Working on [Empower](https://www.loyalhealth.com/empower)
+- Worked on an application that helps healthcare organizations manage reviews and ratings for the healthcare providers they handle.
+- Worked on a few client-side scripts that were injected into hospital sites to interface ratings and reviews.
+- Reviewed and helped manage workload of other frontend engineers on the product (including an intern).
+- Presented a talk about @testing-library/react to Frontend Lunch and Learn.
+- Contributed to our component library “Uniform”.
 
 ### Cadent, Philadelphia, PA -- Front-End Engineer
 
 MARCH 2019 - MARCH 2021
 
-> Working on multiple SPAs using R​eact,​​ Hooks,​​ Redux​,​ Sagas,​ and more while developing components using ​Storybook.​ Also organizes and leads Front-End Lunch & Learns.
+- Worked on multiple single-page-applications using React, Redux, Sagas, and @testing-library/react while developing components using Storybook.
+- Helped coordinate and review work of remote teams.
+- Presented on @testing-library/react and react-query during company lunch and learns.
 
 ### Hothouse Inc., Atlanta, GA & Remote -- Front-End Developer
 
 MAY 2018 - NOVEMBER 2018 & JANUARY 2019 - FEBRUARY 2019
 
-> Worked on several projects including a FIFA World Cup Hub and a sweepstakes site for Dish using A​WS Lambda ​and Dynamodb.​ Also completed a Fintech sector visualization for Deloitte incorporating ReactJS​,​ Context API​,​ ChartJS​, and T​ailwindCSS​ and created a MacOS/Windows desktop conversion tool with Electron ​to assist the client in converting spreadsheet data to a proper format.
+- Worked on a variety of projects including FIFA World Cup Hub and a sweepstakes site for Dish using AWS Lambda functions with a DynamoDB database.
+- Completed a Fintech visualization for Deloitte using ReactJS, Context API, ChartJS, and TailwindCSS.
+- Created a MacOS/Windows desktop application for helping the client convert multiple datasets into one JSON file for the aforementioned visualization.
 
 ### Viget, F​alls Church, VA --​ Front-End Developer Intern to Apprentice
 
 SEPTEMBER 2017 - NOVEMBER 2017
 
-> Helped support several client websites using ​Craft CMS​ and maintained issues on Viget’s website. Presented on the CSS image-set function, Intersection Observer A.P.I., and G​atsbyJS.​ Also collaborated with a cross-disciplinary team to create GroundRules.co (not active).
+- Supported several client websites using Craft CMS and fixed bugs on Viget’s website.
+- Presented on a few topics related to new CSS and JS APIs.
+- Attended multiple learning sessions related to the agency and work lifecycle.
 
 ### Freelance
 
 JUNE 2015 - PRESENT
 
-> - JAMstack​ websites using ​Netlify CMS​ for Marvin Knorr Law and Hacktopia
-> - Squarespace Development for ​Jennifer Moore Speech,​ ​Rebecca Thomas SLP​, and B​rave Wings Therapy
-> - Open-source co-maintainer and developer for A​pprenticeships.me
+- Created JAMstack websites using NetlifyCMS for Marvin Knorr Law and Hacktopia.
+- Developed Squarespace sites for Jennifer Moore Speech, Rebecca Thomas, SLP, and Brave Wings Therapy.
+- Open-source maintainer and co-developer for Apprenticeships.me.
+
+## Skills
+
+- HTML, CSS, JavaScript, TypeScript, Reactjs, Sveltejs, Gatsby, React Hooks, GraphQL, Netlify, Sketch, TailwindCSS, Firebase, React Query, Cypress, Sentry, @testing-library/react, Electron, Node, Express, GatsbyJS, and Sketch/Figma.
 
 ## Education
+
+### Thinkful
+
+December 2017 - May 2018
+
+> Full Stack JavaScript
 
 ### Cedarville University​
 
 August 2013 - May 2017
 
-> ​Broadcasting and Digital Media
-> Minors:​ Bible and Web Design
+> ​Broadcasting and Digital Media with a minor in Web Design
