@@ -13,7 +13,7 @@ Current keyboard: [The Ultimate Hacking Keyboard](https://ultimatehackingkeyboar
 
 ## Work Experience
 
-Frontend Engineer with 7+ years of experience delivering products in fintech, healthcare, and sports/cable spaces. Specializing in Reactjs related work for product companies, digital agencies, and freelance clients.
+Frontend Engineer with 7+ years of experience delivering products in fintech, HRtech, healthcare, and sports/cable spaces. Specializing in Reactjs related work for product companies, digital agencies, and freelance clients.
 
 
 > For more, check out my [personal site](https://modayil.me). 
