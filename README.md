@@ -10,7 +10,7 @@ I'm actively seeking my next frontend engineering position where I can contribut
 
 <table>
   <tr>
-    <th width="140px">Year</th>
+    <th width="160px">Year</th>
     <th>Role</th>
     <th>Description</th>
   </tr>
@@ -25,7 +25,7 @@ I'm actively seeking my next frontend engineering position where I can contribut
 
 <table>
   <tr>
-    <th width="180px">Year</th>
+    <th width="160px">Year</th>
     <th>Company/Institution</th>
     <th>Role</th>
   </tr>
