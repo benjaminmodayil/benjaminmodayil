@@ -89,4 +89,4 @@ I'm an engineer, **decaf coffee enthusiast**, *keyboard connoisseur*, and **cat 
 
 ## 🐱 My Cats ❤️
 
-![Fushi and Nami](https://github.com/user-attachments/assets/68c52fe0-0695-495f-bfaa-4522c5ce6f76)
+<img src="https://github.com/user-attachments/assets/68c52fe0-0695-495f-bfaa-4522c5ce6f76" alt="Fushi and Nami" width="50%">
