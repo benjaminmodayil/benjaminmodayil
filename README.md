@@ -41,6 +41,6 @@ I'm an engineer, **decaf coffee enthusiast**, *keyboard connoisseur*, and **cat 
 
 > For more, check out my [**personal site**](https://modayil.me).
 
-## 🐱 My Cats
+## 🐱 My Cats ❤️
 
-![Cat 1](link-to-cat-photo-1) ![Cat 2](link-to-cat-photo-2)
+![Fushi and Nami](https://github.com/user-attachments/assets/68c52fe0-0695-495f-bfaa-4522c5ce6f76)
