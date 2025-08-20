@@ -23,7 +23,7 @@ I'm actively seeking my next frontend engineering position where I can contribut
 | **2018** 📚 | **Thinkful Online** | *Fullstack JavaScript Program* |
 | **2017** 🚀 | **Viget** | *Frontend Developer* (Intern → Apprentice) |
 | **2017** 📚 | **Cedarville University** | *B.A. Broadcasting and Digital Media* |
-| **2015-2021** 🚀 | **Freelance** | *Developer* |
+| **2015-2021** 🚀 | **Freelance** | *Developer (7+ clients)* |
 
 ## About me
 
