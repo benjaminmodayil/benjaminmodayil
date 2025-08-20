@@ -1,4 +1,4 @@
-# 👋 Hi I'm Benjamin Modayil
+# 👋 Hi, I'm Ben Modayil
 
 I'm a **Senior Frontend Engineer** in Raleigh, NC with `8+ years` specializing in the `React` and `JavaScript` ecosystem, delivering scalable applications across multiple industries. Recently focused on **AI-assisted development workflows** and building modern web applications with `SvelteKit`.
 
