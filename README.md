@@ -8,22 +8,68 @@ I'm actively seeking my next frontend engineering position where I can contribut
 
 ## Current Role
 
-| Year | Role | Description |
-|------|------|-------------|
-| **2025-Present** 🚀 | **Independent & AI-Driven Developer** | Building modern web applications with AI-assisted workflows, event platforms, and automated systems using `SvelteKit`, `TypeScript`, and cloud infrastructure. |
+<table>
+  <tr>
+    <th width="140px">Year</th>
+    <th>Role</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><strong>2025-Present</strong> 🚀</td>
+    <td><strong>Independent & AI-Driven Developer</strong></td>
+    <td>Building modern web applications with AI-assisted workflows, event platforms, and automated systems using <code>SvelteKit</code>, <code>TypeScript</code>, and cloud infrastructure.</td>
+  </tr>
+</table>
 
 ## Work Experience & Education
 
-| Year | Company/Institution | Role |
-|------|---------------------|------|
-| **2022-2025** 🚀 | **15Five** | *Frontend Engineer* |
-| **2021-2022** 🚀 | **Loyal Health** | *Frontend Engineer* |
-| **2019-2021** 🚀 | **Cadent** | *Frontend Engineer* |
-| **2018-2019** 🚀 | **Hothouse Inc.** | *Frontend Developer* (Intern → Contract) |
-| **2018** 📚 | **Thinkful Online** | *Fullstack JavaScript Program* |
-| **2017** 🚀 | **Viget** | *Frontend Developer* (Intern → Apprentice) |
-| **2017** 📚 | **Cedarville University** | *B.A. Broadcasting and Digital Media* |
-| **2015-2021** 🚀 | **Freelance** | *Developer (7+ clients)* |
+<table>
+  <tr>
+    <th width="140px">Year</th>
+    <th>Company/Institution</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td><strong>2022-2025</strong> 🚀</td>
+    <td><strong>15Five</strong></td>
+    <td><em>Frontend Engineer</em></td>
+  </tr>
+  <tr>
+    <td><strong>2021-2022</strong> 🚀</td>
+    <td><strong>Loyal Health</strong></td>
+    <td><em>Frontend Engineer</em></td>
+  </tr>
+  <tr>
+    <td><strong>2019-2021</strong> 🚀</td>
+    <td><strong>Cadent</strong></td>
+    <td><em>Frontend Engineer</em></td>
+  </tr>
+  <tr>
+    <td><strong>2018-2019</strong> 🚀</td>
+    <td><strong>Hothouse Inc.</strong></td>
+    <td><em>Frontend Developer</em> (Intern → Contract)</td>
+  </tr>
+  <tr>
+    <td><strong>2018</strong> 📚</td>
+    <td><strong>Thinkful Online</strong></td>
+    <td><em>Fullstack JavaScript Program</em></td>
+  </tr>
+  <tr>
+    <td><strong>2017</strong> 🚀</td>
+    <td><strong>Viget</strong></td>
+    <td><em>Frontend Developer</em> (Intern → Apprentice)</td>
+  </tr>
+  <tr>
+    <td><strong>2017</strong> 📚</td>
+    <td><strong>Cedarville University</strong></td>
+    <td><em>B.A. Broadcasting and Digital Media</em></td>
+  </tr>
+  <tr>
+    <td><strong>2015-2021</strong> 🚀</td>
+    <td><strong>Freelance</strong></td>
+    <td><em>Developer (7+ clients)</em></td>
+  </tr>
+</table>
 
 ## About me
 
