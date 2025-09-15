@@ -2,10 +2,6 @@
 
 I'm a **Senior Frontend Engineer** in Raleigh, NC with `8+ years` specializing in the `React` and `JavaScript` ecosystem, delivering scalable applications across multiple industries. Recently focused on **AI-assisted development workflows** and building modern web applications with `SvelteKit`.
 
-## 🚀 Open to New Roles
-
-I'm actively seeking my next frontend engineering position where I can contribute my expertise in `React`, `TypeScript`, and modern web technologies.
-
 ## Current Role
 
 <table>
