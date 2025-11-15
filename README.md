@@ -12,8 +12,9 @@ I'm a **Senior Frontend Engineer** in Raleigh, NC with `8+ years` specializing i
   </tr>
   <tr>
     <td><strong>2025-Present</strong> 🚀</td>
-    <td><strong>Independent & AI-Driven Developer</strong></td>
-    <td>Building modern web applications with AI-assisted workflows, event platforms, and automated systems using <code>SvelteKit</code>, <code>TypeScript</code>, and cloud infrastructure.</td>
+    <td><strong>AWeber</strong></td>
+    <td><strong>Senior Frontend Engineer (Level 3)</strong></td>
+    <td>Orchrestrating Claude Code using skills, agents, and other agentic tools for feature development.</td>
   </tr>
 </table>
 
